@@ -27,7 +27,7 @@
     },
     "time_info": {
       "font_name": "微软雅黑",
-      "font_size": 8,
+      "font_size": 12,
       "font_title_color": [
         255,
         255,
@@ -35,12 +35,12 @@
       ],
       "pos_x": 11.54,
       "pos_y": 9.80,
-      "height": 0.47,
-      "width": 2.34
+      "height":0.6,
+      "width": 3
     },
     "name_info": {
       "font_name": "微软雅黑",
-      "font_size": 8,
+      "font_size": 12,
       "font_title_color": [
         255,
         255,
@@ -48,8 +48,8 @@
       ],
       "pos_x": 12.28,
       "pos_y": 8.07,
-      "height": 0.47,
-      "width": 1.15
+      "height": 0.6,
+      "width": 2
     }
   },
   "catalog_page": {

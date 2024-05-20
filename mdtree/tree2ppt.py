@@ -46,14 +46,17 @@ class Tree2PPT:
         THEME_MD2Slide(self.prs, self.theme, self.ppt_main_theme)
         keywords = self.ppt_main_theme
         if self.theme_param["main_page"].get("img_info"):
-            try:
-                self.img_dicts = get_img(keywords)
-                # self.img_dicts = ddg_images(keywords, region='wt-wt', safesearch='Off', size=None,color='Monochrome', type_image=None, layout=None, license_image=None, max_results=300)
-                print("一共检索到的图片数量为",len(self.img_dicts))
-            except:
-                self.img_dicts=[]
-        else:
-            self.img_dicts=[]
+            self.img_dicts = ['test_img/' + dir for dir in os.listdir('test_img')]
+        # if self.theme_param["main_page"].get("img_info"):
+        #     try:
+        #         self.img_dicts = get_img(keywords)
+        #         # self.img_dicts = ddg_images(keywords, region='wt-wt', safesearch='Off', size=None,color='Monochrome', type_image=None, layout=None, license_image=None, max_results=300)
+        #         print("一共检索到的图片数量为",len(self.img_dicts))
+        #     except:
+        #
+        #         self.img_dicts=[ 'test_img/'+ dir for dir in os.listdir('test_img')]
+        # else:
+        #     self.img_dicts=[ 'test_img/'+ dir for dir in os.listdir('test_img')]
         # {'height': 1000, 'image': 'h', 'source': 'Bing', 'thumbnail': 'httpApi', 'title': 'Liberty Tree 1765 Nthe Large Elm Tree At Boylston Market ...', 'url': 'htt650000', 'width': 1000},
         self.traverse_tree(self.tree)
         now = datetime.datetime.now().timestamp()
@@ -211,7 +214,8 @@ class MD2Slide:
         self.init_title()
         self.init_content()
         if page_params.get("img_info") and img_dict:
-            self.img_url = img_dict["thumbnail"]
+            self.img = img_dict
+            # self.img_url = img_dict["thumbnail"]
             # img_orginal_h = img_dict["height"]
             # img_orginal_w = img_dict["width"]
             # img_h = float(page_params["img_info"]["width"])*float(img_orginal_h)/float(img_orginal_w)
@@ -234,10 +238,12 @@ class MD2Slide:
     def init_img(self):
         # encoding:utf-8
 
-        response = req.get(self.img_url)
-        image = Image.open(BytesIO(response.content))
-        image.save("temp_img.png")
-        picture = self.slide.shapes.add_picture("temp_img.png",*self.img_box)
+        # response = req.get(self.img_url)
+        # image = Image.open(BytesIO(response.content))
+        # image.save("temp_img.png")
+        print(self.img)
+        picture = self.slide.shapes.add_picture( self.img,*self.img_box)
+        # picture = self.slide.shapes.add_picture("temp_img.png",*self.img_box)
 
 
 

@@ -107,7 +107,7 @@ class StructureArticle():
                               1.每个要点要求内容精炼，字数不超过20字。
                               2.要点的个数不超过3个。
                               3.要求按照逻辑顺序先后排列。
-                              4.每个要点之后跟随一张图片链接，用"[image]"方式隔开。图片只能在图库中随机选择。
+                              4.每个要点之后跟随一张图片链接，用"[image]"方式隔开。图片只能在图库中以一定的概率随机选择。
                               —————————————————————————
                               图库：
                               1.https://tse2-mm.cn.bing.net/th/id/OIP-C.m3MXR3eqOjOYCZ4m1HForwHaHa?rs=1&pid=ImgDetMain
