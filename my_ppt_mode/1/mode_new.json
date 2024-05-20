@@ -1,0 +1,132 @@
+{
+  "slide_size": {
+    "height": 14.29,
+    "width": 25.4
+  },
+  "first_page": {
+    "title_info": {
+      "font_name": "微软雅黑",
+      "font_size": 36,
+      "pos_x": 4.78,
+      "pos_y": 4.18,
+      "height": 7.43,
+      "width": 15.84
+    }
+  },
+  "catalog_page": {
+    "title_info": {
+      "font_name": "微软雅黑",
+      "font_size": 40,
+      "pos_x": 10.54,
+      "pos_y": 1,
+      "height": 2.18,
+      "width": 4.33
+    }
+  },
+  "main_page": {
+    "title_info": {
+      "font_name": "微软雅黑",
+      "font_size": 20,
+      "pos_x": 2.69,
+      "pos_y": 1.53,
+      "height": 1.11,
+      "width": 19.33
+    },
+    "content_info": {
+      "font_name": "微软雅黑",
+      "font_size": 12,
+      "pos_x": 11.69,
+      "pos_y": 3.76,
+      "height": 8.49,
+      "width": 11.91
+    },
+    "img_info": {
+      "pos_x": 1.79,
+      "pos_y": 3.76,
+      "height": 8.44,
+      "width": 9.31
+    }
+  },
+  "main_part_page": {
+    "title_info": {
+      "font_name": "微软雅黑",
+      "font_size": 20,
+      "pos_x": 2.69,
+      "pos_y": 1.53,
+      "height": 1.11,
+      "width": 19.33
+    },
+    "content_infos": [
+      {
+        "part_info0": {
+          "font_name": "微软雅黑",
+          "font_size": 10,
+          "pos_x": 1.69,
+          "pos_y": 11.76,
+          "height": 3.49,
+          "width": 3.91
+        }
+      },
+      {
+        "part_info1": {
+          "font_name": "微软雅黑",
+          "font_size": 10,
+          "pos_x": 5.69,
+          "pos_y": 11.76,
+          "height": 3.49,
+          "width": 3.91
+        }
+      },
+      {
+        "part_info2": {
+          "font_name": "微软雅黑",
+          "font_size": 10,
+          "pos_x": 11.69,
+          "pos_y": 11.76,
+          "height": 3.49,
+          "width": 3.91
+        }
+      }
+    ],
+    "img_infos": [
+      {
+        "img_info0": {
+          "pos_x": 1.79,
+          "pos_y": 3.76,
+          "height": 7.44,
+          "width": 3.31
+        }
+      },
+      {
+        "img_info1": {
+          "pos_x": 5.79,
+          "pos_y": 3.76,
+          "height": 7.44,
+          "width": 3.31
+        }
+      },
+      {
+        "img_info2": {
+          "pos_x": 11.79,
+          "pos_y": 3.76,
+          "height": 7.44,
+          "width": 3.31
+        }
+      }
+    ],
+    "content_info": {
+      "font_name": "微软雅黑",
+      "font_size": 12,
+      "pos_x": 11.69,
+      "pos_y": 3.76,
+      "height": 8.49,
+      "width": 11.91
+    },
+    "img_info": {
+      "pos_x": 1.79,
+      "pos_y": 3.76,
+      "height": 8.44,
+      "width": 9.31
+    }
+  }
+}

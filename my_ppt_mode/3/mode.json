@@ -1,0 +1,171 @@
+{
+  "slide_size": {
+    "height": 14.29,
+    "width": 25.4
+  },
+  "first_page": {
+    "title_info": {
+      "font_name": "微软雅黑",
+      "font_size": 24,
+      "font_title_color": [
+        255,
+        255,
+        255
+      ],
+      "pos_x": 3.42,
+      "pos_y": 3.56,
+      "height": 1.43,
+      "width": 18.26
+    },
+    "second_title_info": {
+      "font_name": "微软雅黑",
+      "font_size": 12,
+      "pos_x": 13.93,
+      "pos_y": 5.31,
+      "height": 0.71,
+      "width": 9.85
+    },
+    "time_info": {
+      "font_name": "微软雅黑",
+      "font_size": 8,
+      "font_title_color": [
+        255,
+        255,
+        255
+      ],
+      "pos_x": 11.54,
+      "pos_y": 9.80,
+      "height": 0.47,
+      "width": 2.34
+    },
+    "name_info": {
+      "font_name": "微软雅黑",
+      "font_size": 8,
+      "font_title_color": [
+        255,
+        255,
+        255
+      ],
+      "pos_x": 12.28,
+      "pos_y": 8.07,
+      "height": 0.47,
+      "width": 1.15
+    }
+  },
+  "catalog_page": {
+    "title_info": {
+      "font_name": "微软雅黑",
+      "font_size": 20,
+      "pos_x": 0.64,
+      "pos_y": 0.51,
+      "height": 15.54,
+      "width": 0.71
+    }
+  },
+  "main_page": {
+    "title_info": {
+      "font_name": "微软雅黑",
+      "font_size": 20,
+      "pos_x": 0.64,
+      "pos_y": 0.51,
+      "height": 15.54,
+      "width": 0.71
+    },
+    "content_info": {
+      "font_name": "微软雅黑",
+      "font_size": 12,
+      "pos_x": 11.69,
+      "pos_y": 3.76,
+      "height": 8.49,
+      "width": 11.91
+    },
+    "img_info": {
+      "pos_x": 1.79,
+      "pos_y": 3.76,
+      "height": 8.44,
+      "width": 9.31
+    }
+  },
+  "main_part_page": {
+    "title_info": {
+      "font_name": "微软雅黑",
+      "font_size": 20,
+      "pos_x": 0.64,
+      "pos_y": 0.51,
+      "height": 0.71,
+      "width": 15.54
+    },
+    "content_infos": [
+      {
+        "part_info0": {
+          "font_name": "微软雅黑",
+          "font_size": 6,
+          "pos_x": 2.12,
+          "pos_y": 2.62,
+          "height": 0.36,
+          "width": 6.47
+        }
+      },
+      {
+        "part_info1": {
+          "font_name": "微软雅黑",
+          "font_size": 6,
+          "pos_x": 9.45,
+          "pos_y": 2.62,
+          "height": 0.36,
+          "width": 6.47
+        }
+      },
+      {
+        "part_info2": {
+          "font_name": "微软雅黑",
+          "font_size": 6,
+          "pos_x": 17.57,
+          "pos_y": 2.62,
+          "height": 0.36,
+          "width": 6.47
+        }
+      }
+    ],
+    "img_infos": [
+      {
+        "img_info0": {
+          "pos_x": 0.74,
+          "pos_y": 4.06,
+          "height": 8.50,
+          "width": 7.62
+        }
+      },
+      {
+        "img_info1": {
+          "pos_x": 9.14,
+          "pos_y": 4.06,
+          "height": 8.50,
+          "width": 7.62
+        }
+      },
+      {
+        "img_info2": {
+          "pos_x": 16.97,
+          "pos_y": 3.76,
+          "height": 8.50,
+          "width": 7.62
+        }
+      }
+    ],
+    "content_info": {
+      "font_name": "微软雅黑",
+      "font_size": 12,
+      "pos_x": 11.69,
+      "pos_y": 3.76,
+      "height": 8.49,
+      "width": 11.91
+    },
+    "img_info": {
+      "pos_x": 1.79,
+      "pos_y": 3.76,
+      "height": 8.44,
+      "width": 9.31
+    }
+  }
+}

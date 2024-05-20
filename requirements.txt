@@ -1,0 +1,5 @@
+python-pptx
+opencv-python
+markdown
+requests
+gradio
