@@ -111,7 +111,7 @@ class StructureArticle():
                               —————————————————————————
                               图库：
                               1.https://tse2-mm.cn.bing.net/th/id/OIP-C.m3MXR3eqOjOYCZ4m1HForwHaHa?rs=1&pid=ImgDetMain
-                              2.https://ts1.cn.mm.bing.net/th/id/R-C.84e4e205a4efe39d232e7456e262f0e6?rik=3YxTpLde2ZV1CQ&riu=http%3a%2f%2fimage.woshipm.com%2fwp-files%2f2020%2f04%2f28kzcVL3d9Wl8fM7xWtG.gif&ehk=JsQAl%2bObEOanNNZT7ufYapAJIZJzDJuiPiqc8IMC5WA%3d&risl=&pid=ImgRaw&r=0
+                              2.https://copyright.bdstatic.com/vcg/creative/806fceeb5261fd3d9ca9b6def5cc6037.jpg
                               3.https://storage.gczx.cn/gc-oven/20240415/204c139c485a4578a42c8acbe3f207a0.jpg
                               4.https://tse4-mm.cn.bing.net/th/id/OIP-C.JEFb4J5rXWtEdRj_nRIKtwHaDt?rs=1&pid=ImgDetMain
                               5.https://axenehp.com/wp-content/uploads/2019/02/20190225_header.jpg
