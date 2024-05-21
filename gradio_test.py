@@ -54,7 +54,7 @@ def gen_requirement(task_name):
 
 with gr.Blocks(title="一键PPT生成") as demo:
     gr.HTML("""<h1 align="center">一键PPT生成</h1>""")
-    gr.HTML("""<h2 align="center">基于文心一言 （欧朋智能）</h2>""")
+    gr.HTML("""<h2 align="center">基于国创模型</h2>""")
     task_name = gr.Textbox(label="输入你的PPT主题",show_label=True)
     requirement_button1 = gr.Button("分析需求")
     AI_gen_requirement_text = gr.Text(label="AI给出的细化建议",show_label=True)
