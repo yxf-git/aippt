@@ -1,3 +1,3 @@
 class Config:
-    API_Key = "JId80itcAwozRDk85Pi70ELg"
-    Secret_Key = "Wm7BtKnwuHYjL9mDsxF5nx92xSFaLhmt"
+    API_Key = "NNYT4B1Tn5XrwUgf7QksRG8O"
+    Secret_Key = "sGOvEwbhDMzlAe6w10jBQxkT69AbMFbz"
